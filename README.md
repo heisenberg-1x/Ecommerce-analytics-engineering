@@ -84,5 +84,5 @@ retailx/
 ├── analysis/             # SQL business queries
 └── dbt_project.yml       # dbt project configuration
 
-## dbt Lineage
-![alt text](<Screenshot 2026-04-21 095734.png>)
+
+
